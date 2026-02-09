@@ -26,7 +26,16 @@ This repository contains my Hyprland configuration, built for speed, modern deve
 ## How to install
 
 
-Clone this repo into your Neovim config directory
+1. Clone repo into your Hyprland config directory
 ```bash
-   git clone https://https://github.com/wedoscao/hypr-config ~/.config/hypr
+git clone https://github.com/wedoscao/hypr-config ~/.config/hypr
+```
+
+2. Add your avatar image named avatar.png in this directory.
+
+## Recommendation
+
+Backup your old config first
+```bash
+mv ~/.config/hypr ~/.config/hypr-bak
 ```
