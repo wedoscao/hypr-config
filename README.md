@@ -21,6 +21,10 @@ This repository contains my Hyprland configuration, built for speed, modern deve
 - playerctl
 - wireplumber
 - xdg-desktop-portal-hyprland
+- adw-gtk-theme
+- qt6ct
+- fcitx5
+- hyprshutdown
 - CaskaydiaCove Nerd Font
 
 ## How to install
