@@ -25,6 +25,7 @@ This repository contains my Hyprland configuration, built for speed, modern deve
 - qt6ct
 - fcitx5
 - hyprshutdown
+- upower
 - CaskaydiaCove Nerd Font
 
 ## How to install
