@@ -30,13 +30,16 @@ This repository contains my Hyprland configuration, built for speed, modern deve
 
 ## How to install
 
+1. Clone this repo
 
-1. Clone repo into your Hyprland config directory
 ```bash
 git clone https://github.com/wedoscao/hypr-config ~/.config/hypr
+cd ~/.config
 ```
 
-2. Add your avatar image named avatar.png in this directory.
+2. Change HOMEPAGE in ~/.config/processes/awww-random-wallpaper.service
+
+3. Add your avatar image named avatar.png in this directory.
 
 ## Recommendation
 
