@@ -27,6 +27,7 @@ This repository contains my Hyprland configuration, built for speed, modern deve
 - hyprshutdown
 - upower
 - socat
+- hyprpicker
 - CaskaydiaCove Nerd Font
 
 ## How to install
